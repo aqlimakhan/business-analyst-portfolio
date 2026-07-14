@@ -1,4 +1,4 @@
-## Stakeholder Register
+# Stakeholder Register
 
 | Stakeholder                             | Department              | Project Role    | Interest | Influence | Engagement Strategy    |
 | --------------------------------------- | ----------------------- | --------------- | -------- | --------- | ---------------------- |
