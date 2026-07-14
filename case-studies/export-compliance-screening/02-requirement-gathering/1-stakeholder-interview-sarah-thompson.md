@@ -80,6 +80,11 @@ Orders requiring additional review are escalated to a Senior Trade Compliance Sp
 | Analyst productivity                      | To be confirmed | Sarah mentioned KPI but not value |
 
 ### Risks
+- Increasing export volumes without additional Trade Compliance resources may lead to longer review turnaround times and larger order backlogs.
+- Inconsistent compliance documentation increases the risk of adverse findings during external audits and may make it difficult to demonstrate regulatory compliance.
+- Continued shipment delays may reduce customer satisfaction and negatively impact long-term customer relationships.
+- Repetitive manual screening activities may contribute to analyst burnout and reduced productivity.
+
 ### Desired Outcomes
 ### BA Observations
 - The current screening process applies a uniform approach to all orders instead of adopting a risk-based strategy.
