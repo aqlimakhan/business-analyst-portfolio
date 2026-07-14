@@ -26,7 +26,7 @@ To understand the current Export Compliance Screening process, identify business
 
 2. What business problems prompted this project? (Looking at the process we just discussed, which specific steps create the biggest challenges for your team?)
 
-3. Which KPIs are currently below target?
+3. Which KPIs are currently below target? (How does leadership know this process is underperforming? What metrics or reports are reviewed?)
 
 4. What risks concern leadership the most?
 
@@ -63,13 +63,15 @@ Orders requiring additional review are escalated to a Senior Trade Compliance Sp
 - No defined SLA exists for escalated compliance reviews, resulting in inconsistent turnaround times.
 - Manual documentation practices result in inconsistent audit records across analysts.
 
-#### BA Observations
-- The current screening process applies a uniform approach to all orders instead of adopting a risk-based strategy.
-- The process relies heavily on manual effort and disconnected systems.
-- Operational procedures, such as escalation SLAs and documentation standards, are not consistently defined.
-- The identified challenges affect multiple business areas, including Trade Compliance, Logistics, and Sales Operations.
+
 
 ### Current KPIs
 ### Risks
 ### Desired Outcomes
+### BA Observations
+- The current screening process applies a uniform approach to all orders instead of adopting a risk-based strategy.
+- The process relies heavily on manual effort and disconnected systems.
+- Operational procedures, such as escalation SLAs and documentation standards, are not consistently defined.
+- The identified challenges affect multiple business areas, including Trade Compliance, Logistics, and Sales Operations.
 ### Action Items
+## Evidence Collected
