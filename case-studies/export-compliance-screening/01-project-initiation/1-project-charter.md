@@ -11,6 +11,8 @@ Aqlima Khan
 ### 1.5 Project Type
 Business Process Improvement
 
+---
+
 ## 2. Business Problem
 Orion Medical Devices exports medical products to more than 40 countries. Every international sales order must undergo Export Trade Compliance Screening before shipment. The current screening process relies heavily on manual reviews performed by Trade Compliance Analysts. As export volumes have increased, the manual process has resulted in shipment delays, inconsistent processing times, increased analyst workload, and limited visibility into screening performance. Management has initiated this project to analyze the current process and identify opportunities to improve efficiency while maintaining regulatory compliance.
 
