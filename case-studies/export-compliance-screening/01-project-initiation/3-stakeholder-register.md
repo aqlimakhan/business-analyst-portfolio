@@ -1,3 +1,5 @@
+## Stakeholder Register
+
 | Stakeholder                             | Department              | Project Role    | Interest | Influence | Engagement Strategy    |
 | --------------------------------------- | ----------------------- | --------------- | -------- | --------- | ---------------------- |
 | Sarah Thompson                          | Global Trade Compliance | Project Sponsor | High     | High      | Weekly meetings        |
