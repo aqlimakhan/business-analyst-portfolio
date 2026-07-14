@@ -1,6 +1,6 @@
 # Stakeholder Interview
 
-## Stakeholder Information
+## 1. Stakeholder Information
 
 **Name:** Sarah Thompson
 
@@ -16,11 +16,13 @@
 
 ---
 
-## Interview Objective
+## 2. Interview Objective
 
 To understand the current Export Compliance Screening process, identify business challenges, understand project objectives, and capture high-level business requirements from the project sponsor.
 
-## Interview Questions
+---
+
+## 3. Interview Questions
 
 1. Can you walk me through the current export compliance screening process?
 
@@ -38,8 +40,10 @@ To understand the current Export Compliance Screening process, identify business
 
 8. Are there any constraints we should be aware of?
 
-## Interview Notes
-### Current Process
+---
+
+## 4. Interview Notes
+### 4.1 Current Process
 
 Sarah explained that the export compliance screening process begins when an international sales order is created in QAD ERP.
 
@@ -56,7 +60,7 @@ A Trade Compliance Analyst performs the following activities:
 
 Orders requiring additional review are escalated to a Senior Trade Compliance Specialist.
 
-### Current Challenges
+### 4.2 Current Challenges
 - All international orders, including low-risk orders, undergo the same level of manual compliance review regardless of risk profile.
 - Previously screened customers with a history of compliant transactions are repeatedly subjected to the same manual screening process.
 - Analysts must switch between multiple systems to complete a single compliance review, increasing processing time and the risk of human error.
@@ -64,7 +68,7 @@ Orders requiring additional review are escalated to a Senior Trade Compliance Sp
 - Manual documentation practices result in inconsistent audit records across analysts.
 
 
-### Current KPIs
+### 4.3 Current KPIs
 | KPI                                       |   Current Value | Source                            |
 | ----------------------------------------- | --------------: | --------------------------------- |
 | Export orders processed per month         |           4,000 | Sarah Interview                   |
@@ -79,17 +83,34 @@ Orders requiring additional review are escalated to a Senior Trade Compliance Sp
 | Escalation rate                           | To be confirmed | Sarah mentioned KPI but not value |
 | Analyst productivity                      | To be confirmed | Sarah mentioned KPI but not value |
 
-### Risks
-- Increasing export volumes without additional Trade Compliance resources may lead to longer review turnaround times and larger order backlogs.
+### 4.4 Risks
+- Increasing export volumes without additional Trade Compliance Analysts may lead to longer review turnaround times and larger order backlogs.
 - Inconsistent compliance documentation increases the risk of adverse findings during external audits and may make it difficult to demonstrate regulatory compliance.
 - Continued shipment delays may reduce customer satisfaction and negatively impact long-term customer relationships.
 - Repetitive manual screening activities may contribute to analyst burnout and reduced productivity.
 
-### Desired Outcomes
-### BA Observations
+### 4.5 Desired Outcomes
+### 4.6 Constraints
+### 4.7 Assumptions
+| Assumption                                   | Validation Required         |
+| -------------------------------------------- | --------------------------- |
+| Export volume will increase by 20% next year | Confirm with Sales Forecast |
+| Existing compliance tools will remain in use | Validate with IT            |
+| No additional analysts will be hired         | Confirm with HR/Management  |
+
+
+---
+
+### 5. BA Observations
 - The current screening process applies a uniform approach to all orders instead of adopting a risk-based strategy.
 - The process relies heavily on manual effort and disconnected systems.
 - Operational procedures, such as escalation SLAs and documentation standards, are not consistently defined.
 - The identified challenges affect multiple business areas, including Trade Compliance, Logistics, and Sales Operations.
-### Action Items
-## Evidence Collected
+
+---
+
+### 6. Action Items
+
+---
+
+### 7. Evidence Collected
