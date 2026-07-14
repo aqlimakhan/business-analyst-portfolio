@@ -63,6 +63,12 @@ Orders requiring additional review are escalated to a Senior Trade Compliance Sp
 - No defined SLA exists for escalated compliance reviews, resulting in inconsistent turnaround times.
 - Manual documentation practices result in inconsistent audit records across analysts.
 
+#### BA Observations
+- The current screening process applies a uniform approach to all orders instead of adopting a risk-based strategy.
+- The process relies heavily on manual effort and disconnected systems.
+- Operational procedures, such as escalation SLAs and documentation standards, are not consistently defined.
+- The identified challenges affect multiple business areas, including Trade Compliance, Logistics, and Sales Operations.
+
 ### Current KPIs
 ### Risks
 ### Desired Outcomes
