@@ -28,7 +28,7 @@ To understand the current Export Compliance Screening process, identify business
 
 3. Which KPIs are currently below target? (How does leadership know this process is underperforming? What metrics or reports are reviewed?)
 
-4. What risks concern leadership the most?
+4. What risks concern leadership the most? (If the current process continues without any improvements, what are the biggest risks to the business?
 
 5. Which teams are most affected?
 
@@ -64,8 +64,21 @@ Orders requiring additional review are escalated to a Senior Trade Compliance Sp
 - Manual documentation practices result in inconsistent audit records across analysts.
 
 
-
 ### Current KPIs
+| KPI                                       |   Current Value | Source                            |
+| ----------------------------------------- | --------------: | --------------------------------- |
+| Export orders processed per month         |           4,000 | Sarah Interview                   |
+| Orders waiting for compliance review      |             170 | Sarah Interview                   |
+| Average compliance review time            |      12 minutes | Sarah Interview                   |
+| Simple order review time                  |       8 minutes | Sarah Interview                   |
+| Complex order review time                 |   20–30 minutes | Sarah Interview                   |
+| Customer inquiries due to shipment delays |         45/week | Sarah Interview                   |
+| Orders delayed due to compliance review   |             60% | Sarah Interview                   |
+| Audit documentation inconsistencies       |             28% | Sarah Interview                   |
+| Orders pending >24 hours                  | To be confirmed | Sarah mentioned KPI but not value |
+| Escalation rate                           | To be confirmed | Sarah mentioned KPI but not value |
+| Analyst productivity                      | To be confirmed | Sarah mentioned KPI but not value |
+
 ### Risks
 ### Desired Outcomes
 ### BA Observations
