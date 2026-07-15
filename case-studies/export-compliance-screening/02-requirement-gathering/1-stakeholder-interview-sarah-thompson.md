@@ -58,10 +58,10 @@ Orders requiring additional review are escalated to a Senior Trade Compliance Sp
 
 ### 4.2 Current Challenges
 - All international orders, including low-risk orders, undergo the same level of manual compliance review regardless of risk profile.
-- Previously screened customers with a history of compliant transactions are repeatedly subjected to the same manual screening process.
+- Previously screened customers with a history of compliant transactions are repeatedly subjected to manual screening, resulting in unnecessary effort and longer processing times.
 - Analysts must switch between multiple systems to complete a single compliance review, increasing processing time and the risk of human error.
 - No defined SLA exists for escalated compliance reviews, resulting in inconsistent turnaround times.
-- Manual documentation practices result in inconsistent audit records across analysts.
+- Manual documentation practices result in inconsistent compliance documentation across analysts, making audit reviews more difficult.
 
 
 ### 4.3 Current KPIs
