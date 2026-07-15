@@ -32,13 +32,9 @@ To understand the current Export Compliance Screening process, identify business
 
 4. What risks concern leadership the most? (If the current process continues without any improvements, what are the biggest risks to the business?
 
-5. Which teams are most affected?
-
-6. Are there any regulatory requirements that we must consider?
-
-7. What would success look like for this project? (Let's assume this project is a complete success. One year after implementation, what would success look like for you and your team? What improvements would you hope to see?)
-
-8. Are there any constraints we should be aware of?
+5. What would success look like for this project? (Let's assume this project is a complete success. One year after implementation, what would success look like for you and your team? What improvements would you hope to see?)
+6. Are there any constraints or limitations that we should be aware of before we start exploring potential improvements?
+7. To make sure I capture everything correctly, I'd like to confirm a few assumptions. Please let me know if these are accurate."
 
 ---
 
@@ -102,29 +98,49 @@ Orders requiring additional review are escalated to a Senior Trade Compliance Sp
 - Standardize compliance documentation to improve consistency and audit readiness.
 
 ### 4.6 Constraints
+- The solution must comply with all applicable export regulations and internal compliance policies.
+- QAD ERP will remain the system of record.
+- Business operations should experience minimal disruption during implementation.
+- Any proposed solution must demonstrate clear business value within the available budget.
+  
 ### 4.7 Assumptions
-| Assumption                                   | Validation Required         |
-| -------------------------------------------- | --------------------------- |
-| Export volume will increase by 20% next year | Confirm with Sales Forecast |
-| Existing compliance tools will remain in use | Validate with IT            |
-| No additional analysts will be hired         | Confirm with HR/Management  |
+
+| Assumption | Validation Required |
+|------------|---------------------|
+| Export order volumes will continue to grow. | Confirm with Sales Forecast. |
+| No additional Trade Compliance analysts will be hired in the near future. | Confirm with HR/Management. |
+| QAD ERP will continue as the system of record. | Confirm with IT. |
+| Existing export regulations will remain applicable throughout the project. | Validate with Compliance Team. |
 
 
 ---
 
 ### 5. BA Observations
-- The current screening process applies a uniform approach to all orders instead of adopting a risk-based strategy.
-- The process relies heavily on manual effort and disconnected systems.
-- Operational procedures, such as escalation SLAs and documentation standards, are not consistently defined.
-- The identified challenges affect multiple business areas, including Trade Compliance, Logistics, and Sales Operations.
+- The current process applies the same level of compliance review regardless of transaction risk.
+- The screening process relies heavily on manual activities and disconnected systems.
+- Several operational controls (such as escalation SLAs and documentation standards) are not formally defined.
+- The identified issues affect multiple business functions beyond Trade Compliance, including Logistics and Sales Operations.
+- There is an opportunity to improve efficiency while maintaining regulatory compliance.
 
 ---
 
 ### 6. Action Items
 
+| Action | Owner | Status |
+|---------|-------|--------|
+| Obtain latest KPI dashboard | Sarah Thompson | Open |
+| Share current Export Compliance SOP | Sarah Thompson | Open |
+| Schedule interview with Logistics Manager | Aqlima Khan| Open |
+| Schedule interview with Sales Operations Manager | Aqlima Khan | Open |
+| Validate projected export growth forecast | Aqlima Khan | Open |
+
 ---
 
 ### 7. Evidence Collected
+- Export Compliance process walkthrough.
+- Weekly KPI dashboard (requested).
+- Export Compliance Standard Operating Procedure (requested).
+- Internal audit summary (referenced by stakeholder).
 
 ---
 
