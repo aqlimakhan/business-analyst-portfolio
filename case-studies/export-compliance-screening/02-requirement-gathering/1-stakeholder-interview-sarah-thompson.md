@@ -144,18 +144,4 @@ Orders requiring additional review are escalated to a Senior Trade Compliance Sp
 
 ---
 
-## Mentor Notes
 
-### Key Takeaways
-
-- The current process relies heavily on manual activities.
-- Low-risk and high-risk orders follow the same review process.
-- Multiple disconnected systems contribute to inefficiency.
-- There is an opportunity to introduce risk-based screening.
-
-### Questions to Explore in Future Interviews
-
-- How does Logistics measure the impact of delayed order releases?
-- How much time do analysts spend switching between systems?
-- Are there recurring false positives in denied party screening?
-- What information does Sales need to proactively communicate shipment status to customers?
