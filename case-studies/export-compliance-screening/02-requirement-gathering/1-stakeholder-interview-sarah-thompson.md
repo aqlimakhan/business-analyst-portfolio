@@ -36,7 +36,7 @@ To understand the current Export Compliance Screening process, identify business
 
 6. Are there any regulatory requirements that we must consider?
 
-7. What would success look like for this project?
+7. What would success look like for this project? (Let's assume this project is a complete success. One year after implementation, what would success look like for you and your team? What improvements would you hope to see?)
 
 8. Are there any constraints we should be aware of?
 
@@ -90,6 +90,17 @@ Orders requiring additional review are escalated to a Senior Trade Compliance Sp
 - Repetitive manual screening activities may contribute to analyst burnout and reduced productivity.
 
 ### 4.5 Desired Outcomes
+
+- Reduce export compliance review turnaround time while maintaining full regulatory compliance.
+
+- Enable low-risk export orders to be processed more efficiently, allowing analysts to focus on higher-risk transactions.
+
+- Provide analysts with an integrated workflow that minimizes switching between multiple systems.
+
+- Provide management with real-time visibility into workload, bottlenecks, and compliance performance.
+
+- Standardize compliance documentation to improve consistency and audit readiness.
+
 ### 4.6 Constraints
 ### 4.7 Assumptions
 | Assumption                                   | Validation Required         |
