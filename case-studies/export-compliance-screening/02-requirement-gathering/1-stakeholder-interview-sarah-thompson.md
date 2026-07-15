@@ -34,7 +34,7 @@ To understand the current Export Compliance Screening process, identify business
 
 5. What would success look like for this project? (Let's assume this project is a complete success. One year after implementation, what would success look like for you and your team? What improvements would you hope to see?)
 6. Are there any constraints or limitations that we should be aware of before we start exploring potential improvements?
-7. To make sure I capture everything correctly, I'd like to confirm a few assumptions. Please let me know if these are accurate."
+7. To make sure I capture everything correctly, I'd like to confirm a few assumptions. Please let me know if these are accurate.
 
 ---
 
